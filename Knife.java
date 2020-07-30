@@ -6,4 +6,9 @@ public class Knife {
     {
     }
 
+    public void setLength()
+    {
+        length = 9;
+    }
+
 }
